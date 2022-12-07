@@ -16,7 +16,6 @@
 
 ![App Screenshot](./ScreenshotApp.png)
 ## DEMO
-![Video demo](./demo.mp4)
 [![Video demo](./demovideopng.png)](https://drive.google.com/file/d/1UjVSLFF2wemAWNuuDwLzfMHbZwdrh5YG/view?usp=share_link "Video demo")
 
 ## Documentation
